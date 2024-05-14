@@ -14,7 +14,7 @@ document.getElementById('userForm').addEventListener('submit', function(event) {
 <h3 align="center">${profession}</h3>
 <h3 align="left">Connect with me:</h3>
 <a align="left" href="${linkedin}" target="_blank">
-<img src="https://github.com/hamzataougar/LinkedInloadingAnimation/blob/master/logo.png" alt="LinkedIn Profile" height="30px" width="30px">
+<img src="https://github.com/abdullah-k18/Github-Profile-README-Generator/blob/main/images/logo.png" alt="LinkedIn Profile" height="30px" width="30px">
 </a>
 <h3 align="left">Languages & Tools</h3>
 <p>${skillsHTML} </p>`;
